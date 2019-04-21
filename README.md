@@ -17,6 +17,7 @@
   * [Deep learning simplified by transferring prior learning using the Python deep learning ecosystem](https://github.com/dipanjanS/hands-on-transfer-learning-with-python)
   * [A curated list of Machine Learning Surveys, Tutorials and Books.](https://github.com/mlreview/machine-learning-surveys)
   * [A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.](https://github.com/dformoso/machine-learning-mindmap)
+ * [《机器学习实践应用》一书代码](https://github.com/jimenbian/GarvinBook)
  
   
 ## 教程资料
@@ -44,11 +45,17 @@
   * [Deep Learning library for Python. Runs on TensorFlow, Theano, or CNTK.](https://github.com/keras-team/keras)
   * [Python coded examples and documentation of machine learning algorithms.](https://github.com/masinoa/machine_learning)
   * [Theano-Tutorials](https://github.com/Newmu/Theano-Tutorials)
+  * [通过MXNet/Gluon来动手学习深度学习](https://github.com/d2l-ai/d2l-zh)
  
   
 ## Application
  * [Deep Learning and applications in Startups, CV, Text Mining, NLP](https://github.com/lipiji/App-DL)
  
+## Transfer Learning
+ * [Resources and codes about transfer learning and domain adaptation--迁移学习](https://github.com/jindongwang/transferlearning) 
+ 
+## Models
+ * [Comparison of Generative Models in Tensorflow](https://github.com/kvmanohar22/Generative-Models)
  
 ## 其他整理的Deep Learning related resources
   * [awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources)

@@ -15,12 +15,14 @@
   * [Deep-Learning-Book-Chapter-Summaries](https://github.com/dalmia/Deep-Learning-Book-Chapter-Summaries)
   * [handson-ml](https://github.com/ageron/handson-ml)
   * [Deep learning simplified by transferring prior learning using the Python deep learning ecosystem](https://github.com/dipanjanS/hands-on-transfer-learning-with-python)
- * [A curated list of Machine Learning Surveys, Tutorials and Books.](https://github.com/mlreview/machine-learning-surveys)
+  * [A curated list of Machine Learning Surveys, Tutorials and Books.](https://github.com/mlreview/machine-learning-surveys)
+  * [A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.](https://github.com/dformoso/machine-learning-mindmap)
+ 
   
 ## 教程资料
   * [A complete ML study path, focused on TensorFlow and Scikit-Learn](https://github.com/clone95/Virgilio)
   * [TensorFlow Tutorial and Examples for beginners](https://github.com/aymericdamien/TensorFlow-Examples)
-  * [Coding the Machine Learning Tutorial for Learning to Learn)[https://github.com/jiqizhixin/ML-Tutorial-Experiment]
+  * [Coding the Machine Learning Tutorial for Learning to Learn](https://github.com/jiqizhixin/ML-Tutorial-Experiment)
   * [pytorch-handbook](https://github.com/zergtant/pytorch-handbook)
   * [DeepLearningPython35](https://github.com/MichalDanielDobrzanski/DeepLearningPython35)
   * [The fastai deep learning library, plus lessons and and tutorials](https://github.com/fastai/fastai)
@@ -28,7 +30,7 @@
   * [PyTorch Tutorial for Deep Learning Researchers](https://github.com/yunjey/pytorch-tutorial)
   * [Mastering TensorFlow](https://github.com/PacktPublishing/Mastering-TensorFlow-1x)
   * [PRML algorithms implemented in Python](https://github.com/ctgk/PRML)
-  * [ Deep Learning with Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras)
+  * [Deep Learning with Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras)
   * [Machine learning algorithms implemented by pure numpy](https://github.com/carefree0910/MachineLearning)
   * [机器学习相关教程](https://github.com/MorvanZhou/tutorials)
   * [谷歌全新开源人工智能系统TensorFlow官方文档中文版](https://github.com/jikexueyuanwiki/tensorflow-zh)

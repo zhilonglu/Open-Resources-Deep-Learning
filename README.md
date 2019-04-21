@@ -46,6 +46,8 @@
   * [Python coded examples and documentation of machine learning algorithms.](https://github.com/masinoa/machine_learning)
   * [Theano-Tutorials](https://github.com/Newmu/Theano-Tutorials)
   * [通过MXNet/Gluon来动手学习深度学习](https://github.com/d2l-ai/d2l-zh)
+  * [100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+  * [100-Days-Of-ML-Code中文版](https://github.com/MLEveryday/100-Days-Of-ML-Code)
  
   
 ## Application
@@ -53,6 +55,13 @@
  
 ## Transfer Learning
  * [Resources and codes about transfer learning and domain adaptation--迁移学习](https://github.com/jindongwang/transferlearning) 
+ * [Domain Adaptation Papers and Code](https://github.com/barebell/DA)
+ 
+ 
+## AutoML
+ * [accessible AutoML for deep learning.](https://github.com/keras-team/autokeras)
+ 
+ 
  
 ## Models
  * [Comparison of Generative Models in Tensorflow](https://github.com/kvmanohar22/Generative-Models)

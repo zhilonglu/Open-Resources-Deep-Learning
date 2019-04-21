@@ -1,4 +1,4 @@
-# OpenResources
+# Open Resources for deep learning and machine learning
 机器学习、深度学习众多公开资料。具体包括related papers，入门资料，公开课程与教材，基于TensorFlow,Pytorch等框架的教程，基于DL的一些Applications。
 
 ## Related papers

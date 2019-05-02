@@ -62,7 +62,9 @@
  * [accessible AutoML for deep learning](https://github.com/keras-team/autokeras)
  * [awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
  
- 
+## XAI(Explainable AI)
+ * [Interesting resources related to XAI (Explainable Artificial Intelligence)](https://github.com/pbiecek/xai_resources)
+ * [A curated list of awesome machine learning interpretability resources.](https://github.com/jphall663/awesome-machine-learning-interpretability)
  
 ## Models
  * [Comparison of Generative Models in Tensorflow](https://github.com/kvmanohar22/Generative-Models)

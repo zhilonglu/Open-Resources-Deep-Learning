@@ -77,3 +77,6 @@
   * [机器学习资源大全中文版，包括机器学习领域的框架、库以及软件](https://github.com/jobbole/awesome-machine-learning-cn)
   * [TensorFlow - A curated list of dedicated resources](https://github.com/jtoy/awesome-tensorflow)
   * [机器学习&深度学习网站资源汇总（Machine Learning Resources）](https://github.com/howie6879/mlhub123)
+  
+## some other things
+  * [Startups about artificial intelligence. (DM, ML, NLP, CV...)](https://github.com/lipiji/AIStartups)

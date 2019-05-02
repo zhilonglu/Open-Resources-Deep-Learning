@@ -59,7 +59,8 @@
  
  
 ## AutoML
- * [accessible AutoML for deep learning.](https://github.com/keras-team/autokeras)
+ * [accessible AutoML for deep learning](https://github.com/keras-team/autokeras)
+ * [awesome-AutoML-and-Lightweight-Models](https://github.com/guan-yuan/awesome-AutoML-and-Lightweight-Models)
  
  
  

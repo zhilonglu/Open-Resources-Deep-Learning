@@ -48,6 +48,8 @@
   * [通过MXNet/Gluon来动手学习深度学习](https://github.com/d2l-ai/d2l-zh)
   * [100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
   * [100-Days-Of-ML-Code中文版](https://github.com/MLEveryday/100-Days-Of-ML-Code)
+  * [Simple Tensorflow Cookbook for easy-to-use](https://github.com/taki0112/Tensorflow-Cookbook)
+  * [deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle)
  
   
 ## Application
@@ -65,6 +67,7 @@
 ## XAI(Explainable AI)
  * [Interesting resources related to XAI (Explainable Artificial Intelligence)](https://github.com/pbiecek/xai_resources)
  * [A curated list of awesome machine learning interpretability resources.](https://github.com/jphall663/awesome-machine-learning-interpretability)
+ * [H2O.ai Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
  
 ## Models
  * [Comparison of Generative Models in Tensorflow](https://github.com/kvmanohar22/Generative-Models)

@@ -81,3 +81,6 @@
   
 ## some other things
   * [Startups about artificial intelligence. (DM, ML, NLP, CV...)](https://github.com/lipiji/AIStartups)
+
+## domain expert introduction
+ * [Awesome DNN Researchers](https://github.com/longpeng2008/Awesome_DNN_Researchers)

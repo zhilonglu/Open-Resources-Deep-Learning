@@ -8,6 +8,7 @@
 ## 入门资料
   * [deep-learning-ocean](https://github.com/machinelearningmindset/deep-learning-ocean)
   * [Machine Learning Tool Guides and Theory Notes](https://github.com/jxieeducation/DIY-Data-Science)
+  * [GAN学习路线](https://machinelearningmindset.com/generative-adversarial-networks-roadmap/)
 
 ## 课程以及教材资料
   * [《神经网络与深度学习》  Neural Network and Deep Learning](https://github.com/nndl/nndl.github.io0)

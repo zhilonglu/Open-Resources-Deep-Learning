@@ -80,6 +80,7 @@
   * [TensorFlow - A curated list of dedicated resources](https://github.com/jtoy/awesome-tensorflow)
   * [机器学习&深度学习网站资源汇总（Machine Learning Resources）](https://github.com/howie6879/mlhub123)
   * [机器学习原理](https://github.com/shunliz/Machine-Learning)
+  * [机器学习资源汇总](https://sgfin.github.io/learning-resources/)
   
 ## some other things
   * [Startups about artificial intelligence. (DM, ML, NLP, CV...)](https://github.com/lipiji/AIStartups)

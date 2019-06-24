@@ -52,6 +52,7 @@
   * [100-Days-Of-ML-Code中文版](https://github.com/MLEveryday/100-Days-Of-ML-Code)
   * [Simple Tensorflow Cookbook for easy-to-use](https://github.com/taki0112/Tensorflow-Cookbook)
   * [deep-learning-drizzle](https://github.com/kmario23/deep-learning-drizzle)
+  * [机器学习教程](https://github.com/trekhleb/homemade-machine-learning)
  
   
 ## Application

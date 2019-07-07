@@ -6,6 +6,7 @@
   * [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
 ## 入门资料
+  * [python入门的49个资料](https://code-love.com/2019/06/03/49-essential-resources-to-learn-python/)
   * [deep-learning-ocean](https://github.com/machinelearningmindset/deep-learning-ocean)
   * [Machine Learning Tool Guides and Theory Notes](https://github.com/jxieeducation/DIY-Data-Science)
   * [GAN学习路线](https://machinelearningmindset.com/generative-adversarial-networks-roadmap/)

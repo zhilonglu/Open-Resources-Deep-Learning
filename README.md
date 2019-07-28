@@ -37,6 +37,7 @@
   * [Deep Learning with Keras](https://github.com/PacktPublishing/Deep-Learning-with-Keras)
   * [Machine learning algorithms implemented by pure numpy](https://github.com/carefree0910/MachineLearning)
   * [机器学习相关教程](https://github.com/MorvanZhou/tutorials)
+  * [机器学习资源大全中文版](https://github.com/jobbole/awesome-machine-learning-cn)
   * [谷歌全新开源人工智能系统TensorFlow官方文档中文版](https://github.com/jikexueyuanwiki/tensorflow-zh)
   * [Slides and code from our TensorFlow workshop.](https://github.com/random-forests/tensorflow-workshop)
   * [Tensors and Dynamic neural networks in Python  with strong GPU acceleration](https://github.com/pytorch/pytorch)

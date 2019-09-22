@@ -77,6 +77,9 @@
 ## Models
  * [Comparison of Generative Models in Tensorflow](https://github.com/kvmanohar22/Generative-Models)
  
+## Meta Learning
+ * [Pytorch meta learning](https://github.com/tristandeleu/pytorch-meta)
+ 
 ## 其他整理的Deep Learning related resources
   * [awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources)
   * [机器学习资源大全中文版，包括机器学习领域的框架、库以及软件](https://github.com/jobbole/awesome-machine-learning-cn)

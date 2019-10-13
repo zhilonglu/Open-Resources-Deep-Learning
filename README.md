@@ -73,6 +73,7 @@
  * [Interesting resources related to XAI (Explainable Artificial Intelligence)](https://github.com/pbiecek/xai_resources)
  * [A curated list of awesome machine learning interpretability resources.](https://github.com/jphall663/awesome-machine-learning-interpretability)
  * [H2O.ai Machine Learning Interpretability Resources](https://github.com/h2oai/mli-resources)
+ * [Papers on Explainable Artificial Intelligence](https://github.com/anguyen8/XAI-papers)
  
 ## Models
  * [Comparison of Generative Models in Tensorflow](https://github.com/kvmanohar22/Generative-Models)
